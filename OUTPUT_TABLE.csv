@@ -1,0 +1,16 @@
+OUTPUT TABLE,,
+order_month,customer_segments,percentage
+7,Regular Buyers,41.67
+7,VIP customers,50
+7,Occasional Shoppers,8.33
+8,Regular Buyers,83.33
+8,Occasional Shoppers,16.67
+9,Regular Buyers,83.33
+9,Occasional Shoppers,16.67
+10,Occasional Shoppers,28.57
+10,Regular Buyers,71.43
+11,Occasional Shoppers,16.67
+11,Regular Buyers,83.33
+12,Regular Buyers,80
+12,VIP customers,20
+,,
